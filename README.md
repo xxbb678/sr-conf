@@ -31,6 +31,7 @@ https://xxbb678.github.io/sr-conf/lazy_group.conf
 | 韩国节点 | 🇰🇷 KR Korea KOR 韩国 首尔 韩 韓 春川 |
 | 美国节点 | 🇺🇸 US USA America United States 美国 凤凰城 洛杉矶 西雅图 芝加哥 纽约 沪美 美 |
 | **德国节点** | 🇩🇪 Germany 德国 法兰克福 柏林 波恩 法兰 Frankfurt Falkenstein Nuremberg Hetzner DE节点 -德- |
+| **法国节点** | 🇫🇷 France FR节点 -法- 法国 巴黎 马赛 里昂 Paris Marseille Lyon OVH Scaleway Gravelines Roubaix |
 
 **策略分组**（`select`，手动选择）：AI、YouTube、Netflix、Disney+、Max、TikTok、Spotify、Telegram、Twitter、Facebook、PayPal、Amazon、苹果服务、谷歌服务、微软服务、哔哩哔哩、游戏平台
 
@@ -43,7 +44,8 @@ https://xxbb678.github.io/sr-conf/lazy_group.conf
 ## 相对原版的改动
 
 1. **新增德国节点分组**（原版只有港台日新韩美六组）
-2. **16 个 select 分组加入德国节点选项**
+2. **新增法国节点分组**
+3. **16 个 select 分组加入德国、法国节点选项**
 3. **`update-url` 改为本仓库地址**（原为原作者地址）
 4. **移除 `[MITM]` 段的 CA 证书**（`ca-passphrase` / `ca-p12`），避免私钥泄露；`enable` 改为 `false`
 
