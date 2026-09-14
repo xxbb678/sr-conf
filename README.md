@@ -32,6 +32,7 @@ https://xxbb678.github.io/sr-conf/lazy_group.conf
 | 美国节点 | 🇺🇸 US USA America United States 美国 凤凰城 洛杉矶 西雅图 芝加哥 纽约 沪美 美 |
 | **德国节点** | 🇩🇪 Germany 德国 法兰克福 柏林 波恩 法兰 Frankfurt Falkenstein Nuremberg Hetzner DE节点 -德- |
 | **法国节点** | 🇫🇷 France FR节点 -法- 法国 巴黎 马赛 里昂 Paris Marseille Lyon OVH Scaleway Gravelines Roubaix |
+| **马来西亚节点** | 🇲🇾 Malaysia 马来西亚 马来 吉隆坡 Kuala MY |
 
 **策略分组**（`select`，手动选择）：AI、YouTube、Netflix、Disney+、Max、TikTok、Spotify、Telegram、Twitter、Facebook、PayPal、Amazon、苹果服务、谷歌服务、微软服务、哔哩哔哩、游戏平台
 
